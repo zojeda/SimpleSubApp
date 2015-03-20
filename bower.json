@@ -1,0 +1,17 @@
+{
+    "name": "SimpleSubApp",
+    "version": "0.0.1",
+    "_comment": "Any dependencies added here require a manual edit to vendor_files in /Gruntfile.js and (??? verify the following) /build/karma-unit.js (e.g 'vendor/angular-resource/angular-resource.js')",
+    "devDependencies": {
+        "angular": "~1.2.9",
+
+        "angular-mocks": "~1.2.9",
+        "bootstrap": "~3.1",
+        "angular-bootstrap": "~0.10.0",
+        "angular-ui-router": "~0.2.7"
+    },
+    "dependencies": {
+      "application-model": "zojeda/application-model#~0.1.0",
+      "uiSkeleton": "zojeda/uiSkeleton#~0.0.1"
+    }
+}
