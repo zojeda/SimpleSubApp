@@ -2,4 +2,3 @@ bin/
 build/
 vendor/
 node_modules/
-component/
